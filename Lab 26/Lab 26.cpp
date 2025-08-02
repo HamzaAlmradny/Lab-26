@@ -1,3 +1,18 @@
+//DocUmentation Section
+
+/*
+File Name : Lab 26
+Author : Hamza Alsayed Almradny
+Version : V.1
+Purpose : Display the pattern like right angle triangle using an asterisk.
+Date : 24/7/2025
+*/
+
+
+
+
+
+
 #include<iostream>
 using namespace std;
 
